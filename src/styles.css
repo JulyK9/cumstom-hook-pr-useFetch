@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  margin: 3rem;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 2px solid pink;
+  width: 60%;
+  margin: auto;
+}
+
+.todo-list {
+  border: solid 2px pink;
+  border-radius: 10px;
+  padding: 2rem;
+  margin-top: 2rem;
+}
+
+li {
+  list-style: none;
+  margin-bottom: 0.5rem;
+  border-bottom: 2px dashed pink;
+}

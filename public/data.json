@@ -1,0 +1,7 @@
+{
+  "todo": [
+    { "id": 1, "todo": "lunch" },
+    { "id": 2, "todo": "study" },
+    { "id": 3, "todo": "go for a walk" }
+  ]
+}
